@@ -14,7 +14,7 @@ const useStyles = makeStyles({
   contactContainer: {
     minHeight: "100vH",
     fontFamily: "roboto",
-    fontSize: "2em",
+    fontSize: "2.1em",
     color: theme.palette.common.textColor,
   },
   contactLogo: {
