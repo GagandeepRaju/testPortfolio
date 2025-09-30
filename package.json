@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "flubber": "^0.4.2",
     "framer-motion": "^1.11.0",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.2.1",
